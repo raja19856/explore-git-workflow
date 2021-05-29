@@ -1,2 +1,5 @@
+ hotFix-1
 Feature-1 WIP
-feature 1
+
+=======
+Feature master
